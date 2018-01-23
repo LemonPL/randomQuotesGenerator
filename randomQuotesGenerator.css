@@ -1,0 +1,45 @@
+body{
+	padding-top: 20px;
+	background: url(https://source.unsplash.com//TPv9dh822VA);
+	background-size: cover;
+	background-position: center;
+	font-family: "Fjalla One", "sans-serif";
+	color: white;
+}
+
+.jumbotron{
+	color: #2c3e50;
+	background: #ecf0f1;
+	margin:0 0;
+	padding-top: : 100px;
+	height: 300px;
+	text-align: center;
+}
+
+h2{
+	font-size: 50px;
+}
+
+#buttons{
+	text-align: center;
+}
+
+em{
+	text-align: center;
+}
+
+#note{
+	text-align: center;
+	font-size: 10px;
+}
+
+#runquote{
+	margin-top: 10px;
+	font-weight: 300;
+
+}
+
+#quoter{
+	font-color: black;
+	text-decoration-style: wavy;
+}
